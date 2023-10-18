@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Bridgeon**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **react js**
 
