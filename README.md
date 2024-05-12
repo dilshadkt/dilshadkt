@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Zigzag digital solution**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA 🥷**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **react js 😍**
 
-- 📫 How to reach me **hmydilshadkt@gmail.com**
+- 📫 How to reach me **dilshadkt777@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
