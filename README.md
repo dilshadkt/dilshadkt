@@ -3,11 +3,6 @@
 <h3 align="center">A self taught full stack  developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshadkt&label=Profile%20views&color=0e75b6&style=flat" alt="dilshadkt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshadkt" alt="dilshadkt" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Zigzag digital solution**
 
@@ -96,10 +91,13 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshadkt&show_icons=true&locale=en&layout=compact" alt="dilshadkt" /></p>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshadkt&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dilshadkt&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshadkt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="155" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshadkt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dilshadkt&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshadkt&show_icons=true&locale=en" alt="dilshadkt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshadkt&" alt="dilshadkt" /></p>
-
+###
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
