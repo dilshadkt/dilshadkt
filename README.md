@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshadkt&show_icons=true&locale=en" alt="dilshadkt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshadkt&" alt="dilshadkt" /></p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
