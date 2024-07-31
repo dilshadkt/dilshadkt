@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA 🥷**
 
-- 💬 Ask me about **react js 😍**
+- 💬 Ask me about **react js and next js 😍**
 
 - 📫 How to reach me **dilshadkt777@gmail.com**
 
